@@ -11,7 +11,7 @@ Both tasks demonstrate practical applications of **data preprocessing, machine l
 
 ## 🚀 Tasks
 
-### **Task 3: Customer Segmentation**
+### **Task 1: Customer Segmentation**
 - **Objective:** Group customers into segments based on purchasing behavior.  
 - **Approach:**  
   - Preprocessed the dataset (handled missing values, encoded categorical features, and scaled numerical data).  
@@ -23,7 +23,7 @@ Both tasks demonstrate practical applications of **data preprocessing, machine l
 
 ---
 
-### **Task 4: Movie Rating Prediction**
+### **Task 2: Movie Rating Prediction**
 - **Objective:** Predict how a user might rate a movie they haven’t seen yet.  
 - **Dataset Used:** [Rating Disposition 2023 (ratings.csv)](https://files.grouplens.org/datasets/rating-disposition-2023/ratings.csv)  
 - **Approach:**  
